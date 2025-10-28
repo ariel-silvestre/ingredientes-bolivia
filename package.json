@@ -1,7 +1,6 @@
 {
   "name": "@sabor-tricolor/ingredientes",
   "version": "1.0.0",
-  "type": "module",
   "description": "Normalizador inteligente de ingredientes bolivianos con sinónimos regionales y búsqueda fuzzy",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
