@@ -1,0 +1,87 @@
+{
+  "version": "1.0.0",
+  "ultima_actualizacion": "2025-01-15",
+  "total_ingredientes": 150,
+  "ingredientes": [
+    {
+      "id": "ing_001",
+      "nombre_principal": "papa",
+      "categoria": "Tubérculos",
+      "sinonimos": [
+        "patata",
+        "ch'uqi",
+        "chuqi",
+        "akshu"
+      ],
+      "variantes_regionales": {
+        "La Paz": ["ch'uqi", "akshu"],
+        "Cochabamba": ["papa"],
+        "Santa Cruz": ["papa", "patata"]
+      },
+      "nombres_cientificos": ["Solanum tuberosum"],
+      "descripcion": "Tubérculo base de la alimentación andina",
+      "usos_comunes": ["cocida", "frita", "en puré", "asada"],
+      "temporada": "Todo el año",
+      "conservacion": "Lugar fresco y oscuro, hasta 2 meses"
+    },
+    {
+      "id": "ing_002",
+      "nombre_principal": "ají",
+      "categoria": "Condimentos",
+      "sinonimos": [
+        "chile",
+        "locoto",
+        "uchu",
+        "wayk'a"
+      ],
+      "variantes_regionales": {
+        "La Paz": ["uchu", "wayk'a"],
+        "Cochabamba": ["locoto", "ají"],
+        "Santa Cruz": ["ají", "chile"]
+      },
+      "tipos": [
+        {
+          "nombre": "locoto",
+          "nivel_picante": 9,
+          "color": "rojo o amarillo",
+          "descripcion": "Muy picante, típico de Cochabamba"
+        },
+        {
+          "nombre": "ají amarillo",
+          "nivel_picante": 5,
+          "color": "amarillo",
+          "descripcion": "Moderadamente picante, aromático"
+        }
+      ],
+      "descripcion": "Fruto picante usado como condimento",
+      "usos_comunes": ["salsa", "aderezo", "relleno"],
+      "temporada": "Todo el año",
+      "conservacion": "Refrigerado hasta 2 semanas"
+    },
+    {
+      "id": "ing_003",
+      "nombre_principal": "quinua",
+      "categoria": "Granos",
+      "sinonimos": [
+        "quinoa",
+        "kinwa",
+        "jiura"
+      ],
+      "variantes_regionales": {
+        "La Paz": ["kinwa", "jiura"],
+        "Oruro": ["kinwa"],
+        "Potosí": ["quinua", "kinwa"]
+      },
+      "nombres_cientificos": ["Chenopodium quinoa"],
+      "descripcion": "Pseudocereal andino de alto valor nutricional",
+      "propiedades": {
+        "proteinas": "Alto contenido",
+        "aminoacidos": "Completo",
+        "gluten": "Sin gluten"
+      },
+      "usos_comunes": ["ensaladas", "sopas", "guarnición"],
+      "temporada": "Todo el año (seco)",
+      "conservacion": "Lugar seco, hasta 1 año"
+    }
+  ]
+}

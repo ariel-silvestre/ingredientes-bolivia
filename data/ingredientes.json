@@ -1,0 +1,203 @@
+{
+  "version": "1.0.0",
+  "ultima_actualizacion": "2025-01-15",
+  "total_ingredientes": 18,
+  "ingredientes": [
+    {
+      "id": "ing_001",
+      "nombre_principal": "papa",
+      "categoria": "Tubérculos",
+      "sinonimos": ["patata", "ch'uqi", "chuqi", "akshu"],
+      "variantes_regionales": {
+        "La Paz": ["ch'uqi", "akshu"],
+        "Cochabamba": ["papa"],
+        "Santa Cruz": ["papa", "patata"]
+      }
+    },
+    {
+      "id": "ing_002",
+      "nombre_principal": "ají",
+      "categoria": "Condimentos",
+      "sinonimos": ["chile", "locoto", "uchu", "wayk'a"],
+      "variantes_regionales": {
+        "La Paz": ["uchu", "wayk'a"],
+        "Cochabamba": ["locoto", "ají"],
+        "Santa Cruz": ["ají", "chile"]
+      }
+    },
+    {
+      "id": "ing_003",
+      "nombre_principal": "maíz",
+      "categoria": "Granos",
+      "sinonimos": ["choclo", "elote", "sara", "tonko"],
+      "variantes_regionales": {
+        "La Paz": ["sara", "tonko"],
+        "Cochabamba": ["choclo"],
+        "Santa Cruz": ["maíz", "elote"]
+      }
+    },
+    {
+      "id": "ing_004",
+      "nombre_principal": "quinua",
+      "categoria": "Granos",
+      "sinonimos": ["quinoa", "kinwa", "jiura"],
+      "variantes_regionales": {
+        "La Paz": ["kinwa", "jiura"],
+        "Oruro": ["kinwa"],
+        "Potosí": ["quinua", "kinwa"]
+      }
+    },
+    {
+      "id": "ing_005",
+      "nombre_principal": "tomate",
+      "categoria": "Verduras",
+      "sinonimos": ["jitomate"],
+      "variantes_regionales": {
+        "La Paz": ["tomate"],
+        "Santa Cruz": ["tomate", "jitomate"]
+      }
+    },
+    {
+      "id": "ing_006",
+      "nombre_principal": "cebolla",
+      "categoria": "Verduras",
+      "sinonimos": ["sebolla", "siwilla"],
+      "variantes_regionales": {
+        "La Paz": ["siwilla"],
+        "Cochabamba": ["cebolla"],
+        "Santa Cruz": ["cebolla"]
+      }
+    },
+    {
+      "id": "ing_007",
+      "nombre_principal": "zapallo",
+      "categoria": "Verduras",
+      "sinonimos": ["calabaza", "ayote", "lakawiti"],
+      "variantes_regionales": {
+        "La Paz": ["lakawiti"],
+        "Santa Cruz": ["zapallo", "calabaza"]
+      }
+    },
+    {
+      "id": "ing_008",
+      "nombre_principal": "yuca",
+      "categoria": "Tubérculos",
+      "sinonimos": ["mandioca", "cassava", "rumu"],
+      "variantes_regionales": {
+        "Santa Cruz": ["yuca", "mandioca"],
+        "Beni": ["yuca"],
+        "Pando": ["yuca"]
+      }
+    },
+    {
+      "id": "ing_009",
+      "nombre_principal": "aguacate",
+      "categoria": "Frutas",
+      "sinonimos": ["palta", "avocado"],
+      "variantes_regionales": {
+        "La Paz": ["palta"],
+        "Cochabamba": ["palta"],
+        "Santa Cruz": ["aguacate"]
+      }
+    },
+    {
+      "id": "ing_010",
+      "nombre_principal": "plátano",
+      "categoria": "Frutas",
+      "sinonimos": ["banana", "guineo", "pacoba"],
+      "variantes_regionales": {
+        "Santa Cruz": ["plátano", "banana"],
+        "Beni": ["guineo"],
+        "Pando": ["pacoba"]
+      }
+    },
+    {
+      "id": "ing_011",
+      "nombre_principal": "frijol",
+      "categoria": "Legumbres",
+      "sinonimos": ["poroto", "judía", "phaseolo"],
+      "variantes_regionales": {
+        "La Paz": ["poroto"],
+        "Cochabamba": ["poroto"],
+        "Santa Cruz": ["frijol", "poroto"]
+      }
+    },
+    {
+      "id": "ing_012",
+      "nombre_principal": "carne de res",
+      "categoria": "Proteínas",
+      "sinonimos": ["carne", "res", "vaca", "waka"],
+      "variantes_regionales": {
+        "La Paz": ["waka"],
+        "Cochabamba": ["carne"],
+        "Santa Cruz": ["carne de res"]
+      }
+    },
+    {
+      "id": "ing_013",
+      "nombre_principal": "pollo",
+      "categoria": "Proteínas",
+      "sinonimos": ["gallina", "wallpa"],
+      "variantes_regionales": {
+        "La Paz": ["wallpa"],
+        "Cochabamba": ["pollo"],
+        "Santa Cruz": ["pollo"]
+      }
+    },
+    {
+      "id": "ing_014",
+      "nombre_principal": "charque",
+      "categoria": "Proteínas",
+      "sinonimos": ["carne seca", "ch'arki"],
+      "variantes_regionales": {
+        "La Paz": ["ch'arki"],
+        "Cochabamba": ["charque"],
+        "Santa Cruz": ["charque"]
+      }
+    },
+    {
+      "id": "ing_015",
+      "nombre_principal": "queso",
+      "categoria": "Lácteos",
+      "sinonimos": ["quesillo", "quesu"],
+      "variantes_regionales": {
+        "La Paz": ["quesu"],
+        "Cochabamba": ["quesillo"],
+        "Santa Cruz": ["queso"]
+      }
+    },
+    {
+      "id": "ing_016",
+      "nombre_principal": "sal",
+      "categoria": "Condimentos",
+      "sinonimos": ["kachi"],
+      "variantes_regionales": {
+        "La Paz": ["kachi"],
+        "Cochabamba": ["sal"],
+        "Santa Cruz": ["sal"]
+      }
+    },
+    {
+      "id": "ing_017",
+      "nombre_principal": "comino",
+      "categoria": "Condimentos",
+      "sinonimos": ["kuminu"],
+      "variantes_regionales": {
+        "La Paz": ["kuminu"],
+        "Cochabamba": ["comino"],
+        "Santa Cruz": ["comino"]
+      }
+    },
+    {
+      "id": "ing_018",
+      "nombre_principal": "orégano",
+      "categoria": "Condimentos",
+      "sinonimos": ["k'oa"],
+      "variantes_regionales": {
+        "La Paz": ["k'oa"],
+        "Cochabamba": ["orégano"],
+        "Santa Cruz": ["orégano"]
+      }
+    }
+  ]
+}

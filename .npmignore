@@ -1,0 +1,64 @@
+# Source files (no publicar código fuente)
+src/
+tests/
+scripts/
+examples/
+
+# Configuration files (no publicar configs de desarrollo)
+tsconfig.json
+tsup.config.ts
+jest.config.js
+eslint.config.js
+.eslintrc.js
+.eslintignore
+.prettierrc
+.prettierignore
+.editorconfig
+
+# Development files
+*.test.ts
+*.spec.ts
+*.test.js
+*.spec.js
+__tests__/
+__mocks__/
+.github/
+.vscode/
+.idea/
+
+# Build artifacts (no publicar temporales de build)
+*.log
+*.tsbuildinfo
+coverage/
+.nyc_output/
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# CI/CD
+.travis.yml
+.circleci/
+.gitlab-ci.yml
+azure-pipelines.yml
+
+# Documentation source (publicar solo README)
+docs/
+CONTRIBUTING.md
+CHANGELOG.md
+
+# Other
+*.backup
+*.bak
+*.old
+.DS_Store
+Thumbs.db
+npm-debug.log*
+
+# IMPORTANTE: Mantener solo estos archivos/carpetas
+!dist/
+!data/
+!README.md
+!LICENSE
+!package.json
